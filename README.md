@@ -8,6 +8,7 @@ This Movie Recommender System is an advanced recommendation engine that suggests
 4. Replace YOUR_API_KEY .
 5. Open your terminal/command prompt from your project directory and run the file main.py by executing the command python main.py.
 6 .Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+7 . Get Pandas version<2.0.0
 Hurray! That's it.
 
 # Similarity Score
