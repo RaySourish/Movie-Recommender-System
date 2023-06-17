@@ -25,6 +25,10 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 2. IMDB
 
 ## After deploying
-<img width="647" alt="image" src="https://github.com/RaySourish/Movie-Recommender-System/assets/78815665/bb2a70c6-8ed3-43d6-918f-a1ca6bb43e78">
+<img width="949" alt="image" src="https://github.com/RaySourish/Movie-Recommender-System/assets/78815665/bb2a70c6-8ed3-43d6-918f-a1ca6bb43e78">
+
+<img width="949" alt="image" src="https://github.com/RaySourish/Movie-Recommender-System/assets/78815665/b7f42f20-a54a-4cb4-84ac-7e5a6a4eeec6">![Uploading image.png…]()
+
+
 
 
